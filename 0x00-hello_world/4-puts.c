@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
   * main - printing a line using puts function
-  * Retun: 0 (success)
+  * Retun: 0 Always (success)
   */
 int main(void)
 {
