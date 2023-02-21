@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-  *main - Entry point
-  *Description - a program that prints _putchar
-  *Return: always 0
+  * main - Entry point
+  *
+  * Return: Always 0
   */
 int main(void)
 {
@@ -15,5 +15,6 @@ int main(void)
 	putchar('a');
 	putchar('r');
 	putchar('\n');
+
 	return (0);
 }
