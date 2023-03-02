@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stdio.d>
+#include <stdio.h>
 /**
   * rot13 - ...
   * @s: ...
